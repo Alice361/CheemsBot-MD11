@@ -20,7 +20,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = 'azgad roy' //ur bot name
-global.ownernumber = '254103752757' //ur owner number
+global.ownernumber = '233541675304' //ur owner number
 global.ownername = '🦄 azgadroy' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
@@ -31,7 +31,7 @@ global.packname = "Sticker By"
 global.author = "🦄드림 가이 Xeon\n\n+916909137213"
 global.creator = "254103752757@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["254103752757"] // Premium User
+global.premium = ["233541675304"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -42,8 +42,8 @@ global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = true //welcome/left in groups
 global.anticall = true //bot blocks user when called
 global.autoswview = true //auto status/story view
-global.adminevent = false //show promote/demote message
-global.groupevent = false //show update messages in group chat
+global.adminevent = true //show promote/demote message
+global.groupevent = true //show update messages in group chat
 //msg
 global.mess = {
 	limit: 'Your limit is up!',
