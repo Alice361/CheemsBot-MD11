@@ -1,11 +1,11 @@
-//base by DGXeon
+//base by Mr Joker
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//YouTube: @CYBERTRON
+//Instagram: seijurolionel
+//Telegram: t.me/Dark_Lionel
+//GitHub: @Joker15-tech
+//WhatsApp: +2250500107362
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@cybertron-x_1?si=rODXWW-sLcXXkwoQ
 
 const fs = require('fs')
 const chalk = require('chalk')
@@ -14,24 +14,24 @@ const chalk = require('chalk')
 global.sessionid ='ur session id'
 
 //owmner v card
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ytname = "YT: Mr Joker Tech" //ur yt chanel name
+global.socialm = "GitHub: Joker 15-tech" //ur github or insta name
+global.location = "United states,New york" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V11' //ur bot name
-global.ownernumber = '916909137213' //ur owner number
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
-global.websitex = "https://youtu.be/mu5m6aB6P5k"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
-global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.botname = 'Joker Bug Bot V1' //ur bot name
+global.ownernumber = '2250500107362' //ur owner number
+global.ownername = '𝛭𝑅 𝐽𝛩𝛫𝛯𝑅 𝛥𝛲𝛩𝐶𝛥𝐿𝑌𝛲𝑆𝛯' //ur owner name
+global.websitex = "https://youtube.com/@cybertron-x_1?si=rODXWW-sLcXXkwoQ"
+global.wagc = "https://whatsapp.com/channel/0029VadaaRZK5cDOTh6sMD41"
+global.themeemoji = '🎭'
+global.wm = "Joker Tech."
+global.botscript = 'https://github.com/Joker15-tech/CheemsBot-MD11' //script link
+global.packname = "𝛭𝑅 𝐽𝛩𝛫𝛯𝑅 𝛥𝛲𝛩𝐶𝛥𝐿𝑌𝛲𝑆𝛯"
+global.author = "𝛭𝑅 𝐽𝛩𝛫𝛯𝑅 𝛥𝛲𝛩𝐶𝛥𝐿𝑌𝛲𝑆𝛯\n\n+2250500107362"
+global.creator = "2250500107362@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["916909137213"] // Premium User
+global.premium = ["2250500107362,22657221461,2250141523296"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -41,7 +41,7 @@ global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
 global.anticall = false //bot blocks user when called
-global.autoswview = false //auto status/story view
+global.autoswview = true //auto status/story view
 global.adminevent = false //show promote/demote message
 global.groupevent = false //show update messages in group chat
 //msg
