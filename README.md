@@ -1,12 +1,12 @@
  
 
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩11ꫂ<br></h1>
+<h1 align="center">ꪶJoker Bug Bot V1ꫂ<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/RC7JWDj/e258b5ae2b1cf8195d33743570dbe498.jpg" />
 </p>
 
 <p align="center">
-Cheems Bot Multi Device is a whatsapp bot developed by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Cheems Bot Multi Device is a whatsapp bot developed by <a href="[https://github.com/Joker15-tech/CheemsBot-MD11]" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD11/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Joker15-tech/CheemsBot-MD11/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -82,7 +82,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD11.git
+git clone https://github.com/Joker15-tech/CheemsBot-MD11
 cd CheemsBot-MD11
 
 npm start
@@ -99,7 +99,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD11
+git clone [https://github.com/Joker15-tech/CheemsBot-MD11]
 cd CheemsBot-MD11
 yarn install
 npm start
@@ -112,7 +112,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD11
+git clone https://github.com/Joker15-tech/CheemsBot-MD11
 cd CheemsBot-MD11
 npm start
 ```
