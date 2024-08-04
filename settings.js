@@ -26,7 +26,7 @@ global.websitex = "https://youtube.com/@cybertron-x_1?si=rODXWW-sLcXXkwoQ"
 global.wagc = "https://whatsapp.com/channel/0029VadaaRZK5cDOTh6sMD41"
 global.themeemoji = '🎭'
 global.wm = "Joker Tech."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
+global.botscript = 'https://github.com/Joker15-tech/CheemsBot-MD11' //script link
 global.packname = "𝛭𝑅 𝐽𝛩𝛫𝛯𝑅 𝛥𝛲𝛩𝐶𝛥𝐿𝑌𝛲𝑆𝛯"
 global.author = "𝛭𝑅 𝐽𝛩𝛫𝛯𝑅 𝛥𝛲𝛩𝐶𝛥𝐿𝑌𝛲𝑆𝛯\n\n+2250500107362"
 global.creator = "2250500107362@s.whatsapp.net"
