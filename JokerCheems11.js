@@ -1,11 +1,11 @@
-//base by DGXeon
+//base by Mr Joker
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//YouTube: @Joker_Apocalypse
+//Instagram: Dark_Lionel
+//Telegram: t.me/Dark_Lionel
+//GitHub: Joker15-tech
+//WhatsApp: +2250500107362
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Joker_Apocalypse
 
 require('./lib/listmenu')
 const {
