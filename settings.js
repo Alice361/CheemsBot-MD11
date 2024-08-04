@@ -23,7 +23,7 @@ global.botname = 'Joker Bug Bot V1' //ur bot name
 global.ownernumber = '2250500107362' //ur owner number
 global.ownername = '𝛭𝑅 𝐽𝛩𝛫𝛯𝑅 𝛥𝛲𝛩𝐶𝛥𝐿𝑌𝛲𝑆𝛯' //ur owner name
 global.websitex = "https://youtube.com/@cybertron-x_1?si=rODXWW-sLcXXkwoQ"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
+global.wagc = "https://whatsapp.com/channel/0029VadaaRZK5cDOTh6sMD41"
 global.themeemoji = '🎭'
 global.wm = "Joker Tech."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
